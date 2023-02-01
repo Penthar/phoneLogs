@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Phone Log</string>
+
+    <string-array name="type_list">
+        <item>Incoming</item>
+        <item>Outgoing</item>
+        <item>Missed</item>
+        <item>Rejected</item>
+    </string-array>
+
+</resources>
